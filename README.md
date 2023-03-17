@@ -11,7 +11,10 @@ Built on May 28 2017 21:47:46<p>
 From revision bfd818b2b1<p>
 Copyright 2008-2017 The Qt Company Ltd. All rights reserved.<p>
 ## 效果演示
-![image](public/pic/start.png)
+![image](https://github.com/KyoiLin/iWannaBeGenshinToQt/blob/master/pic/start.png)
+![image](https://github.com/KyoiLin/iWannaBeGenshinToQt/blob/master/pic/boss.png)
+![image](https://github.com/KyoiLin/iWannaBeGenshinToQt/blob/master/pic/gameover.png)
+![image](https://github.com/KyoiLin/iWannaBeGenshinToQt/blob/master/pic/gameclear.png)
 ## 后续是否会继续更新
 大概率不会~QWQ<P>
 首先iwanna本身有十分成熟的制作平台，同时经过本人一个月与qt的相互折磨的经历，再折腾qt意义不大<P>
